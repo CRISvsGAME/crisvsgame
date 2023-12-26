@@ -6,6 +6,8 @@
 Auto Close Tag
 Auto Rename Tag
 Docker
+GitHub Copilot
+GitHub Copilot Chat
 Google Cloud Code
 HashiCorp Terraform
 JavaScript and TypeScript Nightly
@@ -21,6 +23,8 @@ Remote Explorer
 TypeScript Vue Plugin (Volar)
 Vue Language Features (Volar)
 WSL
+XML
+YAML
 ```
 
 ### Visual Studio Code Config
@@ -45,6 +49,8 @@ WSL
     "window.restoreWindows": "none",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "none",
+    "xml.format.maxLineWidth": 0,
+    "xml.format.preserveAttributeLineBreaks": false,
     "[blade]": {
         "editor.defaultFormatter": "shufo.vscode-blade-formatter"
     },
@@ -59,6 +65,12 @@ WSL
     },
     "[terraform]": {
         "editor.defaultFormatter": "hashicorp.terraform"
+    },
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
     }
 }
 ```
