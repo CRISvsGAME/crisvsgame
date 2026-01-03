@@ -7,6 +7,9 @@
   <a href="https://www.credly.com/badges/bb9929ac-3bd7-47e4-947c-7ce326eb5d22">
     <img src="badges/google-cloud-digital-leader.png" width="160">&#8203;
   </a>
+  <a href="https://www.credly.com/badges/9fe8efb5-35f5-4604-8061-bbc461f39ff4">
+    <img src="badges/unity-essentials.png" width="160">&#8203;
+  </a>
   <a href="https://www.credly.com/badges/1abcec23-7ea0-47b5-8eed-0d5403f370ef">
     <img src="badges/ccna-switching-and-routing.png" width="160">&#8203;
   </a>
